@@ -1,3 +1,3 @@
 # Order-Priority-Classification-ML-Model
-ICTAK | Project
+ICTAK | Project :
 A superstore is a very large supermarket, often selling household goods, clothes, and electrical goods, as well as food. Superstores typically charge anywhere from 15 to 45 percent less than their smaller counterparts. But the situations of covid pandemic caused a negative impact on superstore with online shopping rising to the needs. we'll be using global super store data spread across geographical areas for this project containing product category, their sales, profit, discount, quantity, mode of shipment, order priority etc. With so provided data we'll be looking forward to preprocessing the data and conduct exploratory data analysis discovering patterns and trends like customer analysis and product analysis. Finally creating ML models classifying order priority of customers helping to make better business decisions and fine tuning it to achieve maximum accuracy.
